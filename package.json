@@ -1,0 +1,23 @@
+{
+  "name": "fetch-example",
+  "version": "1.0.0",
+  "description": "fetch es6 examples",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phoen1x84/fetch.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "Matthew Neil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phoen1x84/fetch/issues"
+  },
+  "homepage": "https://github.com/Phoen1x84/fetch#readme"
+}
